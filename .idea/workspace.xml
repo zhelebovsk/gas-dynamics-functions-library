@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e8b1e893-7edc-4680-b0a4-02ed7fc37bc0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/GDF.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MSA.py" beforeDir="false" afterPath="$PROJECT_DIR$/MSA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cone.py" beforeDir="false" afterPath="$PROJECT_DIR$/cone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inletdp.py" beforeDir="false" afterPath="$PROJECT_DIR$/inletdp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -60,6 +62,17 @@
       <updated>1595870390619</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="470" y="197" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596440152248">

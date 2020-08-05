@@ -1,6 +1,12 @@
 import math
 from matplotlib import pyplot as plt
 import numpy as np
+
+"""
+1. добавить комментарии по коду
+2. вынести каждый из конусов в функции
+"""
+
 #
 x0 = 1.0
 r0 = 0.3
