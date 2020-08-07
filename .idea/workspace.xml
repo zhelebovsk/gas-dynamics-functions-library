@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e8b1e893-7edc-4680-b0a4-02ed7fc37bc0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/GDF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cone.py" beforeDir="false" afterPath="$PROJECT_DIR$/cone.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,19 +41,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/GDF.py" />
-    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="cone" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="GDF" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="gas-dynamics-functions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GDF.py" />
@@ -47,7 +65,7 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,35 +77,6 @@
       <option name="presentableId" value="Default" />
       <updated>1595870390619</updated>
     </task>
-    <task id="LOCAL-00001" summary="to-do list">
-      <created>1596640160285</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1596640160285</updated>
-    </task>
-    <task id="LOCAL-00002" summary="direct r functions (t,p,e)&#10;1st est la(q)">
-      <created>1596643213797</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1596643213797</updated>
-    </task>
-    <task id="LOCAL-00003" summary="description">
-      <created>1596646336980</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1596646336980</updated>
-    </task>
-    <task id="LOCAL-00004" summary="description">
-      <created>1596646418355</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1596646418355</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,48 +89,34 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="to-do list" />
-    <MESSAGE value="direct r functions (t,p,e)&#10;1st est la(q)" />
-    <MESSAGE value="description" />
-    <option name="LAST_COMMIT_MESSAGE" value="description" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="168" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596640744100">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="470" y="197" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596791550723">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="414" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596640744100" />
-    <state x="470" y="197" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596440152248" />
-    <state x="545" y="43" key="CommitChangelistDialog2" timestamp="1596646418037">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="414" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595870411758" />
+    <state x="470" y="197" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596791550723" />
+    <state x="795" y="310" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596791549128">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="545" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596646418037" />
-    <state x="751" y="280" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596640742632">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="795" y="310" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1596791549128" />
+    <state width="891" height="275" key="GridCell.Tab.0.bottom" timestamp="1596794460826">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="751" y="280" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596640742632" />
-    <state x="795" y="310" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1596440150879" />
-    <state width="1893" height="268" key="GridCell.Tab.0.bottom" timestamp="1596647555382">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="891" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1596794460826" />
+    <state width="891" height="275" key="GridCell.Tab.0.center" timestamp="1596794460826">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596647555382" />
-    <state width="1825" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1596447087514" />
-    <state width="1893" height="268" key="GridCell.Tab.0.center" timestamp="1596647555382">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="891" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1596794460826" />
+    <state width="891" height="275" key="GridCell.Tab.0.left" timestamp="1596794460826">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596647555382" />
-    <state width="1825" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1596447087513" />
-    <state width="1893" height="268" key="GridCell.Tab.0.left" timestamp="1596647555382">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="891" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1596794460826" />
+    <state width="891" height="275" key="GridCell.Tab.0.right" timestamp="1596794460826">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596647555382" />
-    <state width="1825" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1596447087513" />
-    <state width="1893" height="268" key="GridCell.Tab.0.right" timestamp="1596647555382">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596647555382" />
-    <state width="1825" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1596447087513" />
+    <state width="891" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1596794460826" />
     <state width="1825" height="340" key="GridCell.Tab.1.bottom" timestamp="1596447087501">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -158,13 +133,13 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1825" height="340" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1596447087500" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1596646419677">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="259" y="199" width="1478" height="879" key="MergeDialog" timestamp="1596791222829">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596646419677" />
-    <state x="738" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596646356851">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="259" y="199" width="1478" height="879" key="MergeDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596791222829" />
+    <state x="1239" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596791205260">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="738" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596646356851" />
+    <state x="1239" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053@72.27.1848.1053" timestamp="1596791205260" />
   </component>
 </project>

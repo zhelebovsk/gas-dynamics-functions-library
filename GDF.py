@@ -66,7 +66,8 @@ def y(la, k):
     :param k: показатель адиабаты
     :return: ГДФ y
     """
-    x = pi(la, k) * q(la, k)
+    x = q(la, k) * pi(la, k)
+    print('Verification of Y function is required')
     return x
 
 
@@ -180,5 +181,3 @@ def mk(k, r):
     """
     x = math.sqrt(k / r * math.pow(2.0 / (k + 1.0), (k + 1.0) / (k - 1.0)))
     return x
-
-breakpoint()
