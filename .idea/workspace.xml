@@ -20,14 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8b1e893-7edc-4680-b0a4-02ed7fc37bc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/visc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gas-dynamics-functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gas-dynamics-functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/GDF.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cone.py" beforeDir="false" afterPath="$PROJECT_DIR$/cone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist and time.py" beforeDir="false" afterPath="$PROJECT_DIR$/dist and time.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,22 +50,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GDF.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/visc.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="GDF" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="visc" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="gas-dynamics-functions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.8" />
+      <option name="SDK_HOME" value="C:\Program Files\Python39\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GDF.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,56 +101,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="470" y="197" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596791550723">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="414" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595870411758" />
-    <state x="470" y="197" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596791550723" />
-    <state x="795" y="310" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596791549128">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="795" y="310" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1596791549128" />
-    <state width="891" height="275" key="GridCell.Tab.0.bottom" timestamp="1596794460826">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="891" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1596794460826" />
-    <state width="891" height="275" key="GridCell.Tab.0.center" timestamp="1596794460826">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="891" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1596794460826" />
-    <state width="891" height="275" key="GridCell.Tab.0.left" timestamp="1596794460826">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="891" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1596794460826" />
-    <state width="891" height="275" key="GridCell.Tab.0.right" timestamp="1596794460826">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="891" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1596794460826" />
-    <state width="1825" height="340" key="GridCell.Tab.1.bottom" timestamp="1596447087501">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1825" height="340" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1596447087501" />
-    <state width="1825" height="340" key="GridCell.Tab.1.center" timestamp="1596447087500">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1825" height="340" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1596447087500" />
-    <state width="1825" height="340" key="GridCell.Tab.1.left" timestamp="1596447087499">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1825" height="340" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1596447087499" />
-    <state width="1825" height="340" key="GridCell.Tab.1.right" timestamp="1596447087500">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1825" height="340" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1596447087500" />
-    <state x="259" y="199" width="1478" height="879" key="MergeDialog" timestamp="1596791222829">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="259" y="199" width="1478" height="879" key="MergeDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596791222829" />
-    <state x="1239" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596791205260">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="1239" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053@72.27.1848.1053" timestamp="1596791205260" />
   </component>
 </project>
