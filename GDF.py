@@ -181,3 +181,9 @@ def mk(k, r):
     """
     x = math.sqrt(k / r * math.pow(2.0 / (k + 1.0), (k + 1.0) / (k - 1.0)))
     return x
+
+
+if __name__ == '__main__':
+    print(laM(2, 1.386))
+    print(tau(laM(2, 1.386), 1.386))
+    print(243/tau(laM(2, 1.386), 1.386))
