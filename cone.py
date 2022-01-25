@@ -2,14 +2,7 @@ import math
 from matplotlib import pyplot as plt
 import numpy as np
 
-"""
-1. добавить комментарии по коду
-2. вынести каждый из конусов в функции
 
-Различные формы конусов на входе в двигатель
-"""
-
-#
 x0 = 1.0
 r0 = 0.3
 x = np.linspace(0, x0, 100)
